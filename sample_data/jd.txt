@@ -1,0 +1,81 @@
+JOB DESCRIPTION
+
+JOB TITLE:
+AI and Machine Learning Engineer
+
+COMPANY:
+Tech Solutions Pvt. Ltd.
+
+JOB SUMMARY:
+
+We are looking for a motivated AI and Machine Learning Engineer
+to develop intelligent applications and machine learning solutions.
+
+The candidate will work with the development and data science teams
+to design, implement and deploy machine learning systems.
+
+REQUIRED TECHNICAL SKILLS
+
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+SQL
+Docker
+Git
+GitHub
+AWS
+Linux
+REST API
+FastAPI
+Natural Language Processing
+Computer Vision
+
+DATA SCIENCE SKILLS
+
+Pandas
+NumPy
+Data Analysis
+Data Visualization
+
+SOFT SKILLS
+
+Communication
+Leadership
+Problem Solving
+Teamwork
+Critical Thinking
+
+RESPONSIBILITIES
+
+Develop machine learning models.
+
+Build and maintain Python applications.
+
+Perform data preprocessing and analysis.
+
+Develop REST APIs for machine learning applications.
+
+Deploy machine learning applications using Docker and cloud platforms.
+
+Work with team members to solve technical problems.
+
+REQUIRED EXPERIENCE
+
+Experience with Python programming.
+
+Knowledge of machine learning and deep learning.
+
+Knowledge of TensorFlow or PyTorch.
+
+Understanding of cloud platforms such as AWS.
+
+Knowledge of Linux and Docker.
+
+Good communication and teamwork skills.
+
+EDUCATION
+
+Bachelor's degree in Computer Science, Artificial Intelligence,
+Data Science or a related field.

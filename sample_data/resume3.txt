@@ -1,0 +1,50 @@
+RESUME
+
+Name: Karthik Raj
+Email: karthik.raj@example.com
+
+CAREER OBJECTIVE
+
+Hardworking graduate looking for an entry-level opportunity
+in the technology industry.
+
+EDUCATION
+
+B.E. Computer Science Engineering
+ABC College
+2022 - 2026
+
+SKILLS
+
+HTML
+CSS
+JavaScript
+
+SOFT SKILLS
+
+Teamwork
+Communication
+
+PROJECTS
+
+1. Personal Portfolio Website
+
+Created a basic personal portfolio website using HTML,
+CSS and JavaScript.
+
+2. College Website
+
+Developed a simple static website as an academic project.
+
+EXPERIENCE
+
+Fresher.
+
+CERTIFICATIONS
+
+Web Development Basics
+
+LANGUAGES
+
+English
+Tamil

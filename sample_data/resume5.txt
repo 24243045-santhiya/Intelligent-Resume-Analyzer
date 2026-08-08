@@ -1,0 +1,61 @@
+RESUME
+
+Name: Rahul Kumar
+Email: rahul.kumar@example.com
+
+CAREER OBJECTIVE
+
+Computer Science student with basic programming and database
+knowledge looking for an entry-level software development role.
+
+EDUCATION
+
+B.E. Computer Science Engineering
+ABC Engineering College
+2022 - 2026
+
+TECHNICAL SKILLS
+
+Python
+SQL
+Git
+GitHub
+Pandas
+NumPy
+Data Analysis
+
+SOFT SKILLS
+
+Communication
+Teamwork
+Problem Solving
+
+PROJECTS
+
+1. Student Management System
+
+Developed a student management application using Python and SQL.
+
+2. Data Analysis Project
+
+Analyzed a small dataset using Python and Pandas.
+
+3. Website Project
+
+Created a simple website for managing student information.
+
+EXPERIENCE
+
+Software Development Intern
+
+Worked on basic Python programming and database tasks.
+
+CERTIFICATIONS
+
+Python Programming
+SQL Fundamentals
+
+LANGUAGES
+
+English
+Tamil

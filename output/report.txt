@@ -1,0 +1,251 @@
+================================================================================
+             INTELLIGENT RESUME ANALYZER
+================================================================================
+
+Job Description: jd.txt
+Total Resumes Analyzed: 5
+
+================================================================================
+                     CANDIDATE RANKING
+================================================================================
+
+Rank    Candidate                Score       Rating              
+--------------------------------------------------------------------------------
+1       Ananya Sharma            100.0%      Excellent           
+2       Priya Kumar              51.85%      Average             
+3       Rahul Kumar              37.04%      Needs Improvement   
+4       Divya Raj                14.81%      Needs Improvement   
+5       Karthik Raj              7.41%       Needs Improvement   
+
+================================================================================
+                    DETAILED RESULTS
+================================================================================
+
+--------------------------------------------------------------------------------
+RANK #1
+Candidate : Ananya Sharma
+Resume    : resume4.txt
+Score     : 100.0%
+Rating    : Excellent
+
+MATCHED SKILLS:
+  [MATCH] api
+  [MATCH] artificial intelligence
+  [MATCH] aws
+  [MATCH] communication
+  [MATCH] computer vision
+  [MATCH] critical thinking
+  [MATCH] data analysis
+  [MATCH] data science
+  [MATCH] data visualization
+  [MATCH] deep learning
+  [MATCH] docker
+  [MATCH] fastapi
+  [MATCH] git
+  [MATCH] github
+  [MATCH] leadership
+  [MATCH] linux
+  [MATCH] machine learning
+  [MATCH] natural language processing
+  [MATCH] numpy
+  [MATCH] pandas
+  [MATCH] problem solving
+  [MATCH] python
+  [MATCH] pytorch
+  [MATCH] rest api
+  [MATCH] sql
+  [MATCH] teamwork
+  [MATCH] tensorflow
+
+MISSING SKILLS:
+  No missing skills.
+
+ADDITIONAL SKILLS:
+  No additional skills.
+
+RECOMMENDATION:
+  Your resume strongly matches the Job Description. You are highly suitable for this position.
+
+--------------------------------------------------------------------------------
+RANK #2
+Candidate : Priya Kumar
+Resume    : resume1.txt
+Score     : 51.85%
+Rating    : Average
+
+MATCHED SKILLS:
+  [MATCH] communication
+  [MATCH] critical thinking
+  [MATCH] data analysis
+  [MATCH] data visualization
+  [MATCH] docker
+  [MATCH] git
+  [MATCH] github
+  [MATCH] machine learning
+  [MATCH] numpy
+  [MATCH] pandas
+  [MATCH] problem solving
+  [MATCH] python
+  [MATCH] sql
+  [MATCH] teamwork
+
+MISSING SKILLS:
+  [MISSING] api
+  [MISSING] artificial intelligence
+  [MISSING] aws
+  [MISSING] computer vision
+  [MISSING] data science
+  [MISSING] deep learning
+  [MISSING] fastapi
+  [MISSING] leadership
+  [MISSING] linux
+  [MISSING] natural language processing
+  [MISSING] pytorch
+  [MISSING] rest api
+  [MISSING] tensorflow
+
+ADDITIONAL SKILLS:
+  [EXTRA] excel
+
+RECOMMENDATION:
+  Your resume partially matches the Job Description. Add the missing skills and relevant projects.
+
+--------------------------------------------------------------------------------
+RANK #3
+Candidate : Rahul Kumar
+Resume    : resume5.txt
+Score     : 37.04%
+Rating    : Needs Improvement
+
+MATCHED SKILLS:
+  [MATCH] communication
+  [MATCH] data analysis
+  [MATCH] git
+  [MATCH] github
+  [MATCH] numpy
+  [MATCH] pandas
+  [MATCH] problem solving
+  [MATCH] python
+  [MATCH] sql
+  [MATCH] teamwork
+
+MISSING SKILLS:
+  [MISSING] api
+  [MISSING] artificial intelligence
+  [MISSING] aws
+  [MISSING] computer vision
+  [MISSING] critical thinking
+  [MISSING] data science
+  [MISSING] data visualization
+  [MISSING] deep learning
+  [MISSING] docker
+  [MISSING] fastapi
+  [MISSING] leadership
+  [MISSING] linux
+  [MISSING] machine learning
+  [MISSING] natural language processing
+  [MISSING] pytorch
+  [MISSING] rest api
+  [MISSING] tensorflow
+
+ADDITIONAL SKILLS:
+  No additional skills.
+
+RECOMMENDATION:
+  Your resume has a low match with the Job Description. Consider improving your technical skills and resume content.
+
+--------------------------------------------------------------------------------
+RANK #4
+Candidate : Divya Raj
+Resume    : resume2.txt
+Score     : 14.81%
+Rating    : Needs Improvement
+
+MATCHED SKILLS:
+  [MATCH] communication
+  [MATCH] python
+  [MATCH] sql
+  [MATCH] teamwork
+
+MISSING SKILLS:
+  [MISSING] api
+  [MISSING] artificial intelligence
+  [MISSING] aws
+  [MISSING] computer vision
+  [MISSING] critical thinking
+  [MISSING] data analysis
+  [MISSING] data science
+  [MISSING] data visualization
+  [MISSING] deep learning
+  [MISSING] docker
+  [MISSING] fastapi
+  [MISSING] git
+  [MISSING] github
+  [MISSING] leadership
+  [MISSING] linux
+  [MISSING] machine learning
+  [MISSING] natural language processing
+  [MISSING] numpy
+  [MISSING] pandas
+  [MISSING] problem solving
+  [MISSING] pytorch
+  [MISSING] rest api
+  [MISSING] tensorflow
+
+ADDITIONAL SKILLS:
+  [EXTRA] css
+  [EXTRA] html
+  [EXTRA] javascript
+
+RECOMMENDATION:
+  Your resume has a low match with the Job Description. Consider improving your technical skills and resume content.
+
+--------------------------------------------------------------------------------
+RANK #5
+Candidate : Karthik Raj
+Resume    : resume3.txt
+Score     : 7.41%
+Rating    : Needs Improvement
+
+MATCHED SKILLS:
+  [MATCH] communication
+  [MATCH] teamwork
+
+MISSING SKILLS:
+  [MISSING] api
+  [MISSING] artificial intelligence
+  [MISSING] aws
+  [MISSING] computer vision
+  [MISSING] critical thinking
+  [MISSING] data analysis
+  [MISSING] data science
+  [MISSING] data visualization
+  [MISSING] deep learning
+  [MISSING] docker
+  [MISSING] fastapi
+  [MISSING] git
+  [MISSING] github
+  [MISSING] leadership
+  [MISSING] linux
+  [MISSING] machine learning
+  [MISSING] natural language processing
+  [MISSING] numpy
+  [MISSING] pandas
+  [MISSING] problem solving
+  [MISSING] python
+  [MISSING] pytorch
+  [MISSING] rest api
+  [MISSING] sql
+  [MISSING] tensorflow
+
+ADDITIONAL SKILLS:
+  [EXTRA] css
+  [EXTRA] html
+  [EXTRA] javascript
+
+RECOMMENDATION:
+  Your resume has a low match with the Job Description. Consider improving your technical skills and resume content.
+
+================================================================================
+                    END OF REPORT
+================================================================================

@@ -1,0 +1,70 @@
+RESUME
+
+Name: Priya Kumar
+Email: priya.kumar@example.com
+
+CAREER OBJECTIVE
+
+Computer Science graduate with good programming and machine
+learning knowledge. Interested in developing software and
+AI-based applications.
+
+EDUCATION
+
+B.E. Computer Science Engineering
+XYZ Engineering College
+2022 - 2026
+
+TECHNICAL SKILLS
+
+Python
+Machine Learning
+SQL
+Docker
+Git
+GitHub
+Pandas
+NumPy
+Data Analysis
+Data Visualization
+
+SOFT SKILLS
+
+Communication
+Problem Solving
+Teamwork
+Critical Thinking
+
+PROJECTS
+
+1. Machine Learning Prediction System
+
+Developed a machine learning prediction system using Python,
+Pandas and NumPy.
+
+2. Sales Data Analysis
+
+Performed data analysis and visualization using Python,
+Pandas and Excel.
+
+3. Python Web Application
+
+Developed a small Python application for managing student data.
+
+EXPERIENCE
+
+Software Development Intern
+
+Worked with Python, SQL and Git on small software development
+projects.
+
+CERTIFICATIONS
+
+Python Programming
+Machine Learning
+SQL Fundamentals
+
+LANGUAGES
+
+English
+Tamil

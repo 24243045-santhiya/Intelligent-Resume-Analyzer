@@ -1,0 +1,53 @@
+RESUME
+
+Name: Divya Raj
+Email: divya.raj@example.com
+
+CAREER OBJECTIVE
+
+Motivated Computer Science graduate looking for an entry-level
+software development opportunity.
+
+EDUCATION
+
+B.E. Computer Science Engineering
+XYZ Engineering College
+2022 - 2026
+
+TECHNICAL SKILLS
+
+Python
+SQL
+HTML
+CSS
+JavaScript
+
+SOFT SKILLS
+
+Communication
+Teamwork
+
+PROJECTS
+
+1. Student Website
+
+Created a basic student information website using HTML,
+CSS and JavaScript.
+
+2. Student Database
+
+Created a simple database application using SQL.
+
+EXPERIENCE
+
+Completed academic projects involving Python and SQL.
+
+CERTIFICATIONS
+
+Python Programming
+SQL Fundamentals
+
+LANGUAGES
+
+English
+Tamil

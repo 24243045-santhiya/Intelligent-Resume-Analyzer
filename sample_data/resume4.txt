@@ -1,0 +1,93 @@
+RESUME
+
+Name: Ananya Sharma
+Email: ananya.sharma@example.com
+Phone: 9876543210
+
+CAREER OBJECTIVE
+
+Highly motivated Artificial Intelligence and Machine Learning
+enthusiast with strong programming, data science and software
+development skills. Seeking an AI and Machine Learning Engineer
+position to develop intelligent applications and machine learning
+solutions.
+
+EDUCATION
+
+B.E. Computer Science and Engineering
+ABC Engineering College
+2022 - 2026
+
+TECHNICAL SKILLS
+
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+SQL
+Docker
+Git
+GitHub
+AWS
+Linux
+REST API
+FastAPI
+Natural Language Processing
+Computer Vision
+Pandas
+NumPy
+Data Analysis
+Data Visualization
+
+SOFT SKILLS
+
+Communication
+Leadership
+Problem Solving
+Teamwork
+Critical Thinking
+
+PROJECTS
+
+1. Intelligent Resume Analyzer
+
+Developed an intelligent resume analysis system using Python,
+Natural Language Processing and machine learning techniques.
+The system compares resumes with job descriptions and identifies
+matching and missing skills.
+
+2. Deep Learning Image Classification
+
+Developed a computer vision application using Python,
+TensorFlow and deep learning techniques for image classification.
+
+3. Machine Learning Prediction System
+
+Built a machine learning prediction system using Pandas,
+NumPy, Python and data analysis techniques.
+
+4. Cloud Deployment Project
+
+Deployed a Python-based machine learning application using
+AWS and Docker.
+
+EXPERIENCE
+
+AI and Machine Learning Intern
+
+Worked on Python programming, machine learning models,
+data analysis, REST API development and cloud deployment.
+
+CERTIFICATIONS
+
+Python Programming
+Machine Learning
+Deep Learning
+AWS Cloud Fundamentals
+Docker Fundamentals
+
+LANGUAGES
+
+English
+Tamil
